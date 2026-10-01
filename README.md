@@ -1,1 +1,2 @@
-# Magic-Square-CVN
+# Magic Square Game DI-CKA Code
+This code was borrowed in part from the Magic Square DI-QKD implementation by Zhen, Mao, Zhang, Xu, Sanders in https://arxiv.org/abs/2308.14037 (2023), available at https://github.com/YizhengZhen/Code_DIQKD_MerminPeresGame. We calculate a lower bound on the per round conditional von Neumann entropy of Alice's key bit string in a device-independent magic square game protocol where Alice can have up to 2 bits of secret key.
